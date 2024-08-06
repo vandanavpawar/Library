@@ -1,0 +1,17 @@
+body{
+    background-image:url('./../../assets/homeimage.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height:100vh;
+}
+.container{
+    height:90vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.center{
+    font-size: 4rem;
+    font-weight: 700;
+    color: rgb(158, 179, 26);
+}
